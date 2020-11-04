@@ -58,7 +58,7 @@
                 "email": "angelina_jolie@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "female",
-                "profile_pic" : "http://lorempixel.com/115/115/",
+                "profile_pic" : "https://lorempixel.com/115/115/",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -71,7 +71,7 @@
                 "email": "dido@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "female",
-                "profile_pic" : "http://lorempixel.com/125/125/",
+                "profile_pic" : "https://lorempixel.com/125/125/",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -84,7 +84,7 @@
                 "email": "adele@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "female",
-                "profile_pic" : "http://lorempixel.com/122/122/",
+                "profile_pic" : "https://lorempixel.com/122/122/",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
