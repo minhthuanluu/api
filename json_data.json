@@ -19,7 +19,7 @@
                 "email": "johnny_depp@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "https://lorempixel.com/105/105/",
+                "profile_pic" : "https://www.transparenthouse.com/wp-content/uploads/2014/12/project4.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -32,7 +32,7 @@
                 "email": "leonardo_dicaprio@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "https://lorempixel.com/110/110/",
+                "profile_pic" : "https://f4.bcbits.com/img/a2663918462_5.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -45,7 +45,7 @@
                 "email": "john_wayne@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "https://lorempixel.com/120/120/",
+                "profile_pic" : "https://www.biography.com/.image/t_share/MTIwNjA4NjM0MDYwOTY1Mzg4/adam-sandler-9542505-1-402.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -58,7 +58,7 @@
                 "email": "angelina_jolie@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "female",
-                "profile_pic" : "https://lorempixel.com/115/115/",
+                "profile_pic" : "https://www.sayidaty.net/sites/default/files/2020/06/24/6827016-1747883125.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -71,7 +71,7 @@
                 "email": "dido@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "female",
-                "profile_pic" : "httpss://lorempixel.com/125/125/",
+                "profile_pic" : "https://media.allure.com/photos/5ea0934d3380580009db1101/1:1/w_3249,h_3249,c_limit/eva%20longoria.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -84,7 +84,7 @@
                 "email": "adele@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "female",
-                "profile_pic" : "http://lorempixel.com/122/122/",
+                "profile_pic" : "https://upload.wikimedia.org/wikipedia/commons/7/7c/Adele_2016.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -97,7 +97,7 @@
                 "email": "hugh_jackman@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "http://lorempixel.com/130/130/",
+                "profile_pic" : "https://www.biography.com/.image/t_share/MTE1ODA0OTcxOTA3NTgxNDUz/hugh-jackman-16599916-1-402.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -110,7 +110,7 @@
                 "email": "will_smith@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "http://lorempixel.com/125/125/",
+                "profile_pic" : "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNzQzMTY2NDc4/will-smith-9542165-1-402.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -123,7 +123,7 @@
                 "email": "clint_eastwood@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "http://lorempixel.com/135/135/",
+                "profile_pic" : "https://www.biography.com/.image/t_share/MTQzMzA1MDM0NTY4ODM2Njc5/clint-eastwood_gettyimages-119202692jpg.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -136,7 +136,7 @@
                 "email": "barack_obama@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "http://lorempixel.com/140/140/",
+                "profile_pic" : "https://www.biography.com/.image/t_share/MTE4MDAzNDEwNzg5ODI4MTEw/barack-obama-12782369-1-402.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -149,7 +149,7 @@
                 "email": "kate_winslet@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "female",
-                "profile_pic" : "http://lorempixel.com/150/150/",
+                "profile_pic" : "https://media.short-biography.com/wp-content/uploads/kate-winslet/Kate-Elizabeth-Winslet.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -161,8 +161,8 @@
                 "name": "Eminem",
                 "email": "eminem@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
-                "gender" : "male",
-                "profile_pic" : "http://lorempixel.com/160/160/",
+                "gender" : "female",
+                "profile_pic" : "https://media.short-biography.com/wp-content/uploads/kate-winslet/Kate-Elizabeth-Winslet.jpg",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
