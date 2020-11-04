@@ -19,7 +19,7 @@
                 "email": "johnny_depp@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "http://lorempixel.com/105/105/",
+                "profile_pic" : "https://lorempixel.com/105/105/",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -32,7 +32,7 @@
                 "email": "leonardo_dicaprio@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "http://lorempixel.com/110/110/",
+                "profile_pic" : "https://lorempixel.com/110/110/",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
@@ -45,7 +45,7 @@
                 "email": "john_wayne@gmail.com",
                 "address": "xx-xx-xxxx,x - street, x - country",
                 "gender" : "male",
-                "profile_pic" : "http://lorempixel.com/120/120/",
+                "profile_pic" : "https://lorempixel.com/120/120/",
                 "phone": {
                     "mobile": "+91 0000000000",
                     "home": "00 000000",
